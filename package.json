@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1-beta",
+  "description": "Portfolio website __past project name is ticket sma__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurumeii/TicketSMA.git"
+  },
+  "keywords": [
+    "[nodejs",
+    "reactjs",
+    "expressjs",
+    "material",
+    "ui",
+    "personal",
+    "portfolio",
+    "learning",
+    "node-oracledb]"
+  ],
+  "author": "Hoanhh98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurumeii/TicketSMA/issues"
+  },
+  "homepage": "https://github.com/kurumeii/TicketSMA#readme"
+}
